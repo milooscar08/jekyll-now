@@ -1,8 +1,8 @@
 ---
-title: first blog
+title: second blog
 layout: post
 author: milo.learner
-permalink: /first-blog/
+permalink: 2018-9-18 /first-blog/
 source-id: 1aB35MdFCmv8aeO8X2xfV1pOVDSg0A_jSjzHHNMCQtOc
 published: true
 ---
